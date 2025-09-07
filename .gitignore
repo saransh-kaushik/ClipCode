@@ -5,3 +5,7 @@ node_modules
 .env.development.local
 .env.test.local
 .env.production.local
+
+part1.md 
+part2&3.md 
+.kiro
