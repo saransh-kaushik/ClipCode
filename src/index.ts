@@ -20,3 +20,9 @@ export * from './split';
 // Core functionality
 export { chunkFile } from './chunk-file';
 export { collectTreeNodes, collectTreeNodesWithSymbols } from './chunk-file';
+
+// Repository scanning functionality
+export * from './repository-scanner';
+
+// Batch processing functionality
+export * from './batch-processor';
